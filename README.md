@@ -14,6 +14,6 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@cornick.io> by adapting my prior
+Written by Mark Cornick <mark@markcornick.com> by adapting my prior
 [vim-vagrant](https://github.com/markcornick/vim-vagrant) plugin. Licensed
 under the MIT license.
