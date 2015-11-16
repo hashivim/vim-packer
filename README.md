@@ -16,7 +16,7 @@ If you prefer to use something besides pathogen, go ahead.
 
 Written by Mark Cornick <https://www.markcornick.com/> by adapting my prior
 [vim-vagrant](https://github.com/markcornick/vim-vagrant) plugin. Licensed
-under the MIT license.
+under the ISC license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
