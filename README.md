@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Supports%20Packer%20Version-1.0.0-blue.svg)](https://github.com/hashicorp/packer/blob/v1.0.0/CHANGELOG.md)
+
 # Call For Maintainers
 
 This plugin, along with others like it, is now maintained by the
