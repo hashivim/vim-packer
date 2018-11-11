@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Supports%20Packer%20Version-1.1.3-blue.svg)](https://github.com/hashicorp/packer/blob/v1.1.3/CHANGELOG.md)
+[![](https://img.shields.io/badge/Supports%20Packer%20Version-1.3.2-blue.svg)](https://github.com/hashicorp/packer/blob/v1.3.2/CHANGELOG.md)
 
 # Call For Maintainers
 
